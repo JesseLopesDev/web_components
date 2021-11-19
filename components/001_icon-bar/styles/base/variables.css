@@ -1,0 +1,9 @@
+:root {
+  --primary-background-color: #cecece;
+  --secondary-background-color: #fff;
+  --inactive-icon-color: #c1c1c1;
+  --active-icon-color: #04aa6d;
+  --hover-icon-color: #6f6f6f;
+
+  font-size: 62.5%;
+}
